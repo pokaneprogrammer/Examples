@@ -1,0 +1,15 @@
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\obj\Debug\net6.0\Example005_ConditionifElse.csproj.AssemblyReference.cache
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\obj\Debug\net6.0\Example005_ConditionifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\obj\Debug\net6.0\Example005_ConditionifElse.AssemblyInfoInputs.cache
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\obj\Debug\net6.0\Example005_ConditionifElse.AssemblyInfo.cs
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\obj\Debug\net6.0\Example005_ConditionifElse.csproj.CoreCompileInputs.cache
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\bin\Debug\net6.0\Example005_ConditionifElse.exe
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\bin\Debug\net6.0\Example005_ConditionifElse.deps.json
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\bin\Debug\net6.0\Example005_ConditionifElse.runtimeconfig.json
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\bin\Debug\net6.0\Example005_ConditionifElse.dll
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\bin\Debug\net6.0\Example005_ConditionifElse.pdb
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\obj\Debug\net6.0\Example005_ConditionifElse.dll
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\obj\Debug\net6.0\refint\Example005_ConditionifElse.dll
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\obj\Debug\net6.0\Example005_ConditionifElse.pdb
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\obj\Debug\net6.0\Example005_ConditionifElse.genruntimeconfig.cache
+C:\Users\mishe\OneDrive\Рабочий стол\GB\Examples\Example005_ConditionifElse\obj\Debug\net6.0\ref\Example005_ConditionifElse.dll
